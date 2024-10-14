@@ -1,7 +1,7 @@
 This is a Movie Rental Backend Project which is built using Nodejs, MongoDB
 
 ## Packages Install
-Ru npm install to install all packages and npm start to start the server
+Run npm install to install all packages and npm start to start the server
 
 ## Features
 - Add Customer, Genre, Movies, Rentals, Users <br/>
